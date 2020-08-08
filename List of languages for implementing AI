@@ -1,0 +1,116 @@
+1. Python
+Python (official website) is among developers favorites programming languages in AI development because of its syntax simplicity and versatility. Python is very encouraging for machine learning for developers as it is less complex as compared to C++ and Java. It also a very portable language as it is used on platforms including Linux, Windows, Mac OS, and UNIX. It is also likable from its features such as Interactive, interpreted, modular, dynamic, portable and high level which make it more unique than Java.
+Advantages
+•	Python has a rich and extensive variety of library and tools.
+•	Supports algorithm testing without having to implement them.
+•	Python supporting object-oriented design increases a programmer’s productivity.
+•	Compared to Java and C++, Python is faster in development.
+
+Disadvantages
+•	Developers accustomed to using Python face difficulty in adjusting to completely different syntax when they try using other languages for AI programming.
+•	Unlike C++ and Java, python works with the help of an interpreter which makes compilation and execution slower in AI development.
+•	Not suitable for mobile computing. For AI meant for mobile applications, Python unsuitable due to its weak language for mobile computing.
+2.C++
+C++ is the fastest computer language, its speed is appreciated for AI programming projects that are time sensitive. It provides faster execution and has less response time which is applied in search engines and development of computer games. In addition, C++ allows extensive use of algorithms and is efficient in using statistical AI techniques. 
+Advantages
+•	Good for finding solutions for complex AI problems.
+•	Rich in library functions and programming tools collection.
+•	C++ is a multi-paradigm programming that supports object-oriented principles thus useful in achieving organized data.
+
+Disadvantages
+•	Poor in multitasking; C++ is suitable only for implementing core or the base of specific systems or algorithms.
+•	It follows the bottom-up approach thus, highly complex making it hard for newbies developers at using it for writing AI programs.
+3.Java
+Java is also a multi-paradigm language that follows object-oriented principles and the principle of Once Written Read/Run Anywhere (WORA). It is an AI programming language that can run on any platform that supports it without the need for recompilation.
+Java is one of the most commonly used and not just in AI development. It derives a major part of its syntax from C and C++ in addition to its lesser tools that them. Java is not only appropriate for NLP and search algorithms but also for neural networks.
+
+Advantages
+•	Very portable; it is easy to implement on different platforms because of Virtual Machine Technology.
+•	Unlike C++, Java is simple to use and even debug.
+•	Has an automatic memory manager which eases the work of the developer.
+
+Disadvantages
+•	Java is, however, slower than C++, it has less speed in execution and more response time.
+•	Though highly portable, on older platforms, java would require dramatic changes on software and hardware to facilitate.
+•	Java is also a generally immature programming AI language as there are still some developments ongoing such as JDK 1.1 in beta.
+4.LISP
+LISP is another language used for artificial intelligence development. It is a family of computer programming language and is the second oldest programming language after Fortran. LISP has developed over time to become strong and dynamic language in coding.
+Advantages
+•	Fast and efficient in coding as it is supported by compilers instead of interpreters.
+•	Automatic memory manager was invented for LISP, therefore, it has a garbage collection.
+•	LISP offers specific control over systems resulting to their maximum use.
+
+Disadvantages
+•	Few developers are well acquainted with Lisp programming.
+•	Being a vintage programming language artificial intelligence, LISP requires configuration of new software and hardware to accommodate it use.
+
+5.Prolog
+
+Prolog is also one of the oldest programming languages thus also suitable for the development of programming AI. Like Lisp, it is also a primary computer language for artificial intelligence. It has mechanisms that facilitate flexible frameworks developers enjoy working with. It is a rule-based and declarative language as it contains facts and rules that dictate its artificial intelligence coding language. Prolog supports basic mechanisms such as pattern matching, tree-based data structuring, and automatic backtracking essential for AI programming. Other than its extensive use in AI projects, Prolog is also used for creation of medical systems.
+
+Advantages
+•	Prolog has a built-in list handling essential in representing tree-based data structures.
+•	Efficient for fast prototyping for AI programs to be released modules frequently.
+•	Allows database creation simultaneous with running of the program.
+
+Disadvantages
+•	Despite prolog old age, it has not been fully standardized in that some features differ in implementation making the work of the developer cumbersome.
+
+6. R
+
+R language was created by Ross Ihaka and Robert Gentleman with the first version being launched in 1995. Currently being maintained by the R Development Core Team, R is the implementation of S programming language and aids in developing statistical software and data analysis.
+Advantages
+•	Wide variety of libraries and packages to extend its functionalities
+•	Active and supportive community
+•	Able to work in tandem with C, C++ and Fortran
+•	Several packages help extend the functionalities
+•	Support for producing high-quality graphs
+
+Disadvantages
+•	In R, objects are stored in physical memory. 
+•	R lacks basic security. 
+•	R is a very complicated language. The people who don't have prior knowledge or programming experience may find it difficult to learn R.
+•	No support for 3D graphics. 
+•	R programming language is much slower than other programming languages.
+7.Haskell
+Haskell was defined in 1990 and named after the famous mathematician Haskell Brooks Curry, Haskell is a purely functional and statically typed programming language, paired with lazy evaluation and shorter code.It is considered a very safe programming language as it tends to offer more flexibility in terms of handling errors as they happen so rarely in Haskell compared to other programming languages. Even if they do occur, a majority of the non-syntactical errors are caught at compile-time instead of runtime.
+Advantages
+•	Strong abstraction capabilities
+•	Built-in memory management
+•	Code reusability
+•	Easy to understand
+
+Disadvantages
+•	Learning Haskell is very complex.
+•	Very easy to write cryptic programs that no-one understands not even the developer after a few days if not provided with comments.
+
+8.Julia
+Julia is a high-performance and general-purpose dynamic programming language tailored to create almost any application but is highly suited for numerical analysis and computational science. 
+Advantages
+•	Dynamic type system
+•	Built-in package manager
+•	Able to work for parallel and distributed computing
+•	Macros and metaprogramming abilities
+•	Support for Multiple dispatches
+•	Direct support for C functions
+
+Disadvantages
+•	Julia is not popular.
+•	More syntax. It makes the language more expressive, but it also means there is more to learn and it’s arguably less readable, especially if you start using all the unicode math symbols that Julia programmers like.
+•	Doesn’t support classical OOP 
+
+9.Scala
+
+Scala is a hybrid functional programming language because It has both the features of object-oriented programming and functional programming. As an OO Programming Language, it considers every value as an object and all OOPS concepts apply. As a functional programming language, it defines and supports functions. All operations are done as functions. No variable stands by itself. Scala is a machine-compiled language.
+Advantages
+•	It’s general-purpose object-oriented language with functional language properties too. It’s less verbose than Java.
+•	It can work with JVM and hence is portable.
+•	It can support Java APIs comfortably.
+•	It's fast and robust in Spark context as its Spark native.
+•	It is a statically typed language.
+•	Scala supports Read-Evaluate-Print-Loop (REPL)
+Disadvantages
+•	Scala is complex to learn due to the functional nature of language.
+•	Steep learning curve.
+•	Lack of matured machine learning languages.
+
